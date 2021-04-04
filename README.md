@@ -1,4 +1,4 @@
-##Regarding the paper "Context-Aware Attentional Graph U-Net for Hyperspectral Image Classification", it is temporarily not open source. 
+## Regarding the paper "Context-Aware Attentional Graph U-Net for Hyperspectral Image Classification", it is temporarily not open source. 
 
 - I will completely open source the code of this paper after the paper is published (has been accepted now). 
   
