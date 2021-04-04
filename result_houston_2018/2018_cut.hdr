@@ -1,0 +1,91 @@
+ENVI
+description = {
+ File Resize Result, x resize factor: 1.000000, 
+ y resize factor: 1.000000.  [Sat Dec 09 16:04:38 2017]}
+samples = 1200
+lines   = 600
+bands   = 50
+data type = 12
+interleave = bip
+file type = ENVI Standard
+header offset = 0
+byte order = 0
+map info = {UTM, 1.000, 1.000, 272460.000, 3290541.000, 1.000000e+000, 1.000000e+000, 15, North, North America 1983, units=Meters}
+coordinate system string = {PROJCS["NAD_1983_UTM_Zone_15N",GEOGCS["GCS_North_American_1983",DATUM["D_North_American_1983",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",-93.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]}
+x start = 1041
+y start = 690
+default bands = {48,32,16}
+band names = {
+ Resize (Channel 1 374.395nm +/- 7.170nm (rows 283-288) (rc) 48 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 2 388.733nm +/- 7.168nm (rows 277-282) (rc) 47 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 3 403.068nm +/- 7.167nm (rows 271-276) (rc) 46 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 4 417.401nm +/- 7.166nm (rows 265-270) (rc) 45 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 5 431.732nm +/- 7.165nm (rows 259-264) (rc) 44 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 6 446.061nm +/- 7.164nm (rows 253-258) (rc) 43 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 7 460.388nm +/- 7.163nm (rows 247-252) (rc) 42 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 8 474.712nm +/- 7.162nm (rows 241-246) (rc) 41 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 9 489.035nm +/- 7.161nm (rows 235-240) (rc) 40 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 10 503.356nm +/- 7.160nm (rows 229-234) (rc) 39 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 11 517.675nm +/- 7.159nm (rows 223-228) (rc) 38 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 12 531.992nm +/- 7.158nm (rows 217-222) (rc) 37 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 13 546.308nm +/- 7.158nm (rows 211-216) (rc) 36 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 14 560.622nm +/- 7.157nm (rows 205-210) (rc) 35 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 15 574.936nm +/- 7.156nm (rows 199-204) (rc) 34 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 16 589.247nm +/- 7.156nm (rows 193-198) (rc) 33 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 17 603.558nm +/- 7.155nm (rows 187-192) (rc) 32 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 18 617.868nm +/- 7.155nm (rows 181-186) (rc) 31 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 19 632.176nm +/- 7.154nm (rows 175-180) (rc) 30 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 20 646.484nm +/- 7.154nm (rows 169-174) (rc) 29 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 21 660.791nm +/- 7.153nm (rows 163-168) (rc) 28 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 22 675.097nm +/- 7.153nm (rows 157-162) (rc) 27 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 23 689.402nm +/- 7.153nm (rows 151-156) (rc) 26 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 24 703.707nm +/- 7.152nm (rows 145-150) (rc) 25 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 25 718.012nm +/- 7.152nm (rows 139-144) (rc) 24 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 26 732.316nm +/- 7.152nm (rows 133-138) (rc) 23 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 27 746.620nm +/- 7.152nm (rows 127-132) (rc) 22 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 28 760.924nm +/- 7.152nm (rows 121-126) (rc) 21 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 29 775.228nm +/- 7.152nm (rows 115-120) (rc) 20 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 30 789.532nm +/- 7.152nm (rows 109-114) (rc) 19 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 31 803.835nm +/- 7.152nm (rows 103-108) (rc) 18 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 32 818.140nm +/- 7.152nm (rows 97-102) (rc) 17 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 33 832.444nm +/- 7.152nm (rows 91- 96) (rc) 16 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 34 846.749nm +/- 7.153nm (rows 85- 90) (rc) 15 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 35 861.054nm +/- 7.153nm (rows 79- 84) (rc) 14 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 36 875.360nm +/- 7.153nm (rows 73- 78) (rc) 13 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 37 889.666nm +/- 7.153nm (rows 67- 72) (rc) 12 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 38 903.974nm +/- 7.154nm (rows 61- 66) (rc) 11 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 39 918.282nm +/- 7.154nm (rows 55- 60) (rc) 10 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 40 932.591nm +/- 7.155nm (rows 49- 54) (rc) 9 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 41 946.901nm +/- 7.155nm (rows 43- 48) (rc) 8 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 42 961.212nm +/- 7.156nm (rows 37- 42) (rc) 7 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 43 975.525nm +/- 7.157nm (rows 31- 36) (rc) 6 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 44 989.839nm +/- 7.157nm (rows 25- 30) (rc) 5 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 45 1004.154nm +/- 7.158nm (rows 19- 24) (rc) 4 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 46 1018.471nm +/- 7.159nm (rows 13- 18) (rc) 3 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 47 1032.789nm +/- 7.160nm (rows 7- 12) (rc) 2 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (Channel 48 1047.109nm +/- 7.160nm (rows 1- 6) (rc) 1 (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (NADIR Channel: Off Nadir Angle = DN/1000. (deg) (16U):CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix), 
+ Resize (DEM Channel: HGT(m) = -2000.0 + DN(r;c) * 0.20000 (16U)    :CASI_2017_02_18_124903.dc.sl.fss.so.rc_g.pix)}
+wavelength = {
+  374.399994,  388.700012,  403.100006,  417.399994,  431.700012,  446.100006,
+  460.399994,  474.700012,  489.000000,  503.399994,  517.700012,  532.000000,
+  546.299988,  560.599976,  574.900024,  589.200012,  603.599976,  617.900024,
+  632.200012,  646.500000,  660.799988,  675.099976,  689.400024,  703.700012,
+  718.000000,  732.299988,  746.599976,  760.900024,  775.200012,  789.500000,
+  803.799988,  818.099976,  832.400024,  846.700012,  861.099976,  875.400024,
+  889.700012,  904.000000,  918.299988,  932.599976,  946.900024,  961.200012,
+  975.500000,  989.799988, 1004.200012, 1018.500000, 1032.800049, 1047.099976,
+   49.000000,   50.000000}
+fwhm = {
+ 14.300000, 14.300000, 14.300000, 14.300000, 14.300000, 14.300000, 14.300000,
+ 14.300000, 14.300000, 14.300000, 14.300000, 14.300000, 14.300000, 14.300000,
+ 14.300000, 14.300000, 14.300000, 14.300000, 14.300000, 14.300000, 14.300000,
+ 14.300000, 14.300000, 14.300000, 14.300000, 14.300000, 14.300000, 14.300000,
+ 14.300000, 14.300000, 14.300000, 14.300000, 14.300000, 14.300000, 14.300000,
+ 14.300000, 14.300000, 14.300000, 14.300000, 14.300000, 14.300000, 14.300000,
+ 14.300000, 14.300000, 14.300000, 14.300000, 14.300000, 14.300000,  0.000000,
+  0.000000}
+wavelength units = Nanometers
+sensor type = Unknown
+pixel size = {
+ 1.00000000e+000, 1.00000000e+000, units=Meters}

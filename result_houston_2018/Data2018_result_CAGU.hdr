@@ -1,0 +1,8 @@
+ENVI
+samples = 1200
+lines   = 600
+bands   = 1
+data type = 1
+interleave = bsq
+file type = TIFF
+data ignore value = 0.00000000e+000
