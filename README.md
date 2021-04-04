@@ -8,16 +8,16 @@
 
 
 
- # CAGU Architecture : 
+ ## CAGU Architecture : 
  ![](/images/2_2.jpg) 
 
-  # Results : 
+ ## Results : 
  ![](/images/2_3.jpg) 
   # Classification maps : 
  ![](/images/2_5.jpg) 
 
 
  
-# Declaration : 
+## Declaration : 
 ><p style="text-align:justify; text-justify:inter-ideograph;color:black;font-size:20px"> When the paper is published, we will completely open source the code.<br>
 ><p style="text-align:right;color:black;font-size:20px"> --&nbsp;Moule Lin 
