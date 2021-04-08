@@ -1,6 +1,6 @@
 ## Regarding the paper "Context-Aware Attentional Graph U-Net for Hyperspectral Image Classification", it is temporarily open source a part of code. We will completely open source the code of this paper after the paper is published (has been accepted now). 
   
--More details on 
+- More details on 
 ## https://moulelin.github.io/2021/03/31/cagu/
 ![](/images/3_1.jpg) 
 
